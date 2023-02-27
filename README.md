@@ -3,7 +3,7 @@ Python script for InvokeAI, converts output PNG to JPEG and adds metadata from i
 
 Requirements:
 - PIL library
-- exiftool in the %PATH% or in the currennt directory
+- exiftool in the %PATH% or in the current directory
 
 Usage:
 meta_jpg.py must be run from the 'outputs' directory of InvokeAI ("py meta_jpg.py").
