@@ -10,4 +10,6 @@ meta_jpg.py must be run from the 'outputs' directory of InvokeAI ("py meta_jpg.p
 invoke_log.txt will be read, PNG converted as JPG and metadata added from invoke_log.txt
 You will prompted to keep or delete PNG original files.
 
+Code is under MIT licence.
+
 To contact me about this tool : contact@jnss.eu
